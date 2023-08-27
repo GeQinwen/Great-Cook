@@ -34,7 +34,7 @@ The `Great Cook` is a simple web application built on Streamlit and OpenAI. It a
 3. **Run the App**:
 
    ```bash
-   streamlit run great-cook.py
+   streamlit run great_cook.py
    ```
 
    This will open a new browser window/tab with the application running.
