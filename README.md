@@ -10,6 +10,20 @@ The `Great Cook` is a simple web application built on Streamlit and OpenAI. It a
   
 - **Recipe Generation**: Using the same ingredient input, the app suggests recipes that can be made.
 
+## Pre-requisites
+
+Before setting up the application, ensure you have an API key from OpenAI. Set it as an environment variable:
+
+```bash
+export OPENAI_API_KEY='YOUR_API_KEY'
+```
+
+If using Windows command prompt:
+
+```bash
+set OPENAI_API_KEY=YOUR_API_KEY
+```
+
 ## Requirements
 
 - Python 3.x
